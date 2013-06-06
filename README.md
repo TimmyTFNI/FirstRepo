@@ -1,0 +1,4 @@
+FirstRepo
+=========
+
+Dummy repository
