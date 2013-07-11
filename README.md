@@ -11,7 +11,3 @@ And one more small change.
 
 bla bla bla
 
-ololololololo
-
-baaaaaaar
-
